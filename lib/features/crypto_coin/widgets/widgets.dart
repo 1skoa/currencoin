@@ -1,0 +1,1 @@
+export 'crypto_coin_details_tile.dart';
