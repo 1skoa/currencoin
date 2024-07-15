@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 # crypto_coins_list
 
-A new Flutter project.
-
-## Getting Started
+<h1><a href="https://github.com/1skoa/currencoin/releases/tag/flutter">Download as APK</a></h1>
 
 This project is a starting point for a Flutter application.
 # currencoin
